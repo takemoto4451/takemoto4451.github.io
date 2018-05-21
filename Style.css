@@ -90,12 +90,15 @@ p {
 	font-size: 20px;
 	line-height: 30px;
 	position: absolute;
-	display: inline-block;
+display: inline-block;
 	width: 30px;
 	height: 30px;
 	content: '✖︎';
 	text-align: center;
 }
+
+
+<style type="text/css">	
 /* === ボタンを表示するエリア ============================== */
 .switchArea {
   line-height    : 60px;                /* 1行の高さ          */
@@ -159,3 +162,4 @@ p {
   transform      : translateX(90px);    /* 丸も右へ移動       */
   background     : #78bd78;             /* カーソルタブの背景 */
 }
+</Style>
