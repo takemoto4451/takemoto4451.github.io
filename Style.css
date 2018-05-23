@@ -99,7 +99,7 @@ display: inline-block;
 
 /* === ボタンを表示するエリア ============================== */
 .sample2Area {
-  margin         : auto;                /* 中央寄せ           */
+  margin         : right;                /*            */
   width          : 100px;               /* ボタンの横幅       */
 }
  
