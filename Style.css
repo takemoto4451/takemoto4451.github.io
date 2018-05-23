@@ -114,7 +114,7 @@ display: inline-block;
   box-sizing     : border-box;          /* 枠線を含んだサイズ */
   text-align     : left;                /* 文字位置は中央     */
   border         : 2px solid #78bd78;   /* 枠線               */
-  border-radius  : 3px;                 /* 角丸               */
+  border-radius  : 30px;                 /* 角丸               */
   line-height    : 1;                   /* 1行の高さ          */
   height         : 50px;                /* ボタンの高さ       */
 }
