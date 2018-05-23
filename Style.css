@@ -57,7 +57,7 @@ p {
 .cp_ipcheck .option-input02:checked::before {
 	font-size: 20px;
 	line-height: 30px;
-	position: absolute;
+	position: absolute
 	display: inline-block;
 	width: 30px;
 
@@ -100,7 +100,7 @@ display: inline-block;
 /* === ボタンを表示するエリア ============================== */
 .sample2Area {
 	text-align: right;
-  padding-right   : 50px ;                /*  右寄せ          */
+  margin-right   ;                /*  右寄せ          */
   width          : 100px;               /* ボタンの横幅       */
 }
  
