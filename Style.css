@@ -124,6 +124,7 @@ display: inline-block;
   display        :inline-block;
   height         : 46px;                /* ボタンの高さ       */
   width          : 50%;                 /* ボタンの高さ       */
+  border-radius  : 30px;	
   background     : #ddd;                /* 背景色             */
   transition     : .3s;                 /* ゆっくり変化       */
 }
