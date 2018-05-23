@@ -1,4 +1,4 @@
-h1 {
+;h1 {
 	color:white;
 	background-color:black;
 }
@@ -100,8 +100,8 @@ display: inline-block;
 /* === ボタンを表示するエリア ============================== */
 .sample2Area {
 	text-align: right;
-  padding-right   : 0px ;                /*  右寄せ          */
-  width          : 50px;               /* ボタンの横幅       */
+  padding-right   : 50px ;                /*  右寄せ          */
+  width          : 100px;               /* ボタンの横幅       */
 }
  
  /* === チェックボックス ==================================== */
