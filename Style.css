@@ -60,6 +60,7 @@ p {
 	position: absolute;
 	display: inline-block;
 	width: 30px;
+
 	height: 30px;
 	content: '✔';
 	text-align: center;
@@ -98,6 +99,7 @@ display: inline-block;
 
 /* === ボタンを表示するエリア ============================== */
 .sample2Area {
+	text-align: right;
   padding-right   : 0px ;                /*  右寄せ          */
   width          : 50px;               /* ボタンの横幅       */
 }
