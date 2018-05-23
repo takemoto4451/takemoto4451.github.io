@@ -85,8 +85,7 @@ p {
 .cp_ipcheck .option-input02:disabled {
 	cursor: not-allowed;
 	background: #b8b7b7;
-}
-.cp_ipcheck .option-input02:disabled::before {
+}.cp_ipcheck .option-input02:disabled::before {
 	font-size: 20px;
 	line-height: 30px;
 	position: absolute;
@@ -99,7 +98,7 @@ display: inline-block;
 
 /* === ボタンを表示するエリア ============================== */
 .sample2Area {
-  padding-left;                /*  右寄せ          */
+  padding-right   : 0px ;                /*  右寄せ          */
   width          : 50px;               /* ボタンの横幅       */
 }
  
